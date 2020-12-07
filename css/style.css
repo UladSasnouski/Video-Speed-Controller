@@ -4,7 +4,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-image: url(../bg-fon.png);
+  background-image: url(../bg-fon.jpg);
   background-size: cover;
   font-family: sans-serif;
 }
